@@ -67,6 +67,7 @@ Message Flow Analysis Using Kafka:
 Analyze and optimize message flows between APIs with Kafka, ensuring efficient and reliable data exchange across systems.
 
 **Business Analyst @ Cora Fintech LLC (_Sep 2020 - Nov 2023_)**
+
 From trainee to analyst, I have worked on various data projects throughout my experience:
 
 Key Accomplishments:
