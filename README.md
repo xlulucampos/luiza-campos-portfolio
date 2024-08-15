@@ -2,22 +2,37 @@
 
 #### Technical Skils
 Programming languages: Python, SQL
+
 Databases: MySQL, Postgres
+
 Data Analysis: Mode Analytics, Power BI, Tableau, Azure Data Studio
+
 Project Management: Notion, Jira, Confluence
+
 Cloud Services: AWS, Microsoft Azure
+
 Libraries: NumPy, Pandas
+
 Development Tools: Visual Studio Code, Postman
+
 Data Streaming Platforms: Apache Kafka
+
 Database Management Tools: DBeaver
 
 #### Soft Skils
+
 Assertive Communication
+
 Teamwork
+
 Time Management
+
 Leadership
+
 Autonomy
+
 Critical Thinking
+
 Problem-Solving Focus
 
 ## Education
@@ -25,7 +40,7 @@ Problem-Solving Focus
 - BSc Engineering | Universidade Estadual de Maringá (_Jun 2021_)
 
 ## Work Experience
-** Business Analyst Consultant @ RDW Netherlands Vehicle Authority (_Dec 2023 - Present_)**
+**Business Analyst Consultant @ RDW Netherlands Vehicle Authority (_Dec 2023 - Present_)**
 Consultant working as a Product Analyst, assisting in the definition, development, and delivery of digital products in the IT sector.
 
 Key Accomplishments:
