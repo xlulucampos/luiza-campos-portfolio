@@ -75,34 +75,34 @@ Key Accomplishments:
 Customer Segmentation for Product Development:
 Used SQL and Python to segment customer profiles, enabling targeted development of digital products.
 
-- Dashboard Creation for Customer Analysis:
+Dashboard Creation for Customer Analysis:
 Developed dashboards with Tableau and Mode for analyzing customer clusters.
 
-- Database Management Expertise:
+Database Management Expertise:
 Managed SQL Server and MySQL databases, supporting robust analysis.
 
-- Business Process Modeling:
+Business Process Modeling:
 Applied business process modeling to enhance communication between development and support teams using Miro and Lucidchart.
 
--Project Management:
+Project Management:
 Utilized Jira, Confluence, and Notion for effective project management.
 
--Implementation, Training, and Support:
+Implementation, Training, and Support:
 Proven skills in implementing, training, and supporting processes and systems.
 
--Database Infrastructure Development:
+Database Infrastructure Development:
 Built database infrastructure using Github Codespaces and VS Code.
 
--Task Automation for Support Team:
+Task Automation for Support Team:
 Automated support tasks using Python to improve efficiency.
 
--Service Ticket Analysis Dashboards:
+Service Ticket Analysis Dashboards:
 Created dashboards for service ticket analysis with Mode and SQL.
 
--Support Team Training:
+Support Team Training:
 Led training sessions to ensure understanding of practices and procedures.
 
-- Process Implementation and Support:
+Process Implementation and Support:
 Supported and implemented organizational processes for compliance and effectiveness.
 
 
