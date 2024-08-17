@@ -2,37 +2,23 @@
 
 #### Technical Skils
 Programming languages: Python, SQL
-
 Databases: MySQL, Postgres
-
 Data Analysis: Mode Analytics, Power BI, Tableau, Azure Data Studio
-
 Project Management: Notion, Jira, Confluence
-
 Cloud Services: AWS, Microsoft Azure
-
 Libraries: NumPy, Pandas
-
 Development Tools: Visual Studio Code, Postman
-
 Data Streaming Platforms: Apache Kafka
-
 Database Management Tools: DBeaver
 
 #### Soft Skils
 
 Assertive Communication
-
 Teamwork
-
 Time Management
-
 Leadership
-
 Autonomy
-
 Critical Thinking
-
 Problem-Solving Focus
 
 ## Education
