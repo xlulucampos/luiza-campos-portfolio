@@ -1,5 +1,5 @@
 title: Luiza Campos
-#logo:
+logo: assets/profile_pic.png
 #description: text text
-#show_downloads: true
+show_downloads: true
 theme: jekyll-remote-theme 
