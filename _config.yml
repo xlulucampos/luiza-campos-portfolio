@@ -2,5 +2,5 @@ title: Luiza Campos
 logo: assets/profile_pic.png
 description: Welcome to my Data Analyst portfolio
 show_downloads: true
-remote_theme: pages-themes/minimal
+theme: jekyll-theme-minimal
 
