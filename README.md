@@ -22,7 +22,7 @@ Critical Thinking;
 Problem-Solving Focus;
 
 ## Education
-- MBA, Data Science & Business Analytics | Universidade de Lisboa (_July 2022_)								       			        
+- MBA, Data Science & Business Analytics | Universidade de Lisboa (_July 2024_)								       			        
 - BSc Engineering | Universidade Estadual de Maringá (_Jun 2021_)
 
 ## Work Experience
