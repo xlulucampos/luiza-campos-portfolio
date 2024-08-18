@@ -35,7 +35,9 @@ Final postgraduate project that consisted of implementing an analytical solution
 
 Project development using various components of the SQL Server technology stack, Data Factory, Power BI, and ML Studio.
 
-Data-Science-Project/Data Science Project.pdf 
+[Click here to see more](https://github.com/xlulucampos/luiza-campos-portfolio/tree/main/Data-Science-Project) 
+
+
 
 
 
