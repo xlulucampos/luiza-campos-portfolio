@@ -1,4 +1,4 @@
-# Data Analyst
+# Luiza Campos - Data Analyst
 
 #### Technical Skils
 Python, SQL,MySQL, Postgres, Mode Analytics, Power BI, Tableau, Azure Data Studio, Notion, Jira, Confluence, AWS, Microsoft Azure, Pandas, Visual Studio Code, Postman, Apache Kafka, DBeaver
