@@ -24,13 +24,14 @@ Intern responsible for managing and maintaining data from user research studies.
 
 ## Data Science Project 
 - Decision Support Model for Determining Appropriate Loan Interest Rates for Customers
+
 Final postgraduate project that consisted of implementing an analytical solution that includes the different components of a traditional data warehouse architecture, including:
 
-Implementation of an ODS, Staging Area, and/or Data Warehouse (dimensional modeling)
-Implementation of an ETL process
-Implementation of a Semantic Model
-Implementation of Reports and Dashboards
-Implementation of an Artificial Intelligence Model
+- Implementation of an ODS, Staging Area, and/or Data Warehouse (dimensional modeling)
+- Implementation of an ETL process
+- Implementation of a Semantic Model
+- Implementation of Reports and Dashboards
+- Implementation of an Artificial Intelligence Model
 Project development using various components of the SQL Server technology stack, Data Factory, Power BI, and ML Studio.
 
 
