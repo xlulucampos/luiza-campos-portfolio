@@ -32,6 +32,7 @@ Final postgraduate project that consisted of implementing an analytical solution
 - Implementation of a Semantic Model
 - Implementation of Reports and Dashboards
 - Implementation of an Artificial Intelligence Model
+
 Project development using various components of the SQL Server technology stack, Data Factory, Power BI, and ML Studio.
 
 
