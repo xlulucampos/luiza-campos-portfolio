@@ -37,6 +37,8 @@ Project development using various components of the SQL Server technology stack,
 
 [Click here to see more](https://github.com/xlulucampos/luiza-campos-portfolio/tree/main/Data-Science-Project) 
 
+https://github.com/xlulucampos/luiza-campos-portfolio/blob/main/assets/Dashboard1.png 
+https://github.com/xlulucampos/luiza-campos-portfolio/blob/main/assets/Dashboard2.png 
 
 
 
