@@ -22,7 +22,7 @@ From trainee to analyst, I have worked on various data projects throughout my ex
 **Database Intern @ Euphoria Group (_Jan 2020 - Aug 2023_)**
 Intern responsible for managing and maintaining data from user research studies.
 
-## Data Science Project 
+## Academic Experience - Data Science Project 
 - Decision Support Model for Determining Appropriate Loan Interest Rates for Customers
 
 Final postgraduate project that consisted of implementing an analytical solution that includes the different components of a traditional data warehouse architecture, including:
